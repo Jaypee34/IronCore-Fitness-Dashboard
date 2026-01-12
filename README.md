@@ -1,4 +1,4 @@
-# IronCore-Fitness-Dashboard
+
 # verall Performance Overview
 
 IronCore Fitness is operating from a position of strong financial health, stable membership growth, and efficient operations. The dashboard reflects a well-balanced business model that combines profitability, service quality, and scalable growth.
